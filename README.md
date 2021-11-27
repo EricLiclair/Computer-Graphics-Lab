@@ -6,8 +6,6 @@ All labs of Graphics designing
 
 ## Faculty -Dr. Prasenjit Dey
 
-#### 0.Happy Holi
-
 #### 1.Draw a human face
 
 #### 2.Draw a House and fill it with color and shades
